@@ -3,4 +3,4 @@ A sample mailbox using C# events
 
 # Output
 
-![Screenshot](Output.png)
+![Screenshot](https://raw.githubusercontent.com/GabrielGamy/MailBox/master/Output.png)
