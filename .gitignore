@@ -7,6 +7,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Others
+*.sln
+*.config
+*.csproj
+AssemblyInfo.cs
+
 # User-specific files
 *.suo
 *.user
