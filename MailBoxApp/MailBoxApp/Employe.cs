@@ -3,12 +3,12 @@ using System;
 namespace MailBoxApp
    {
 
-   // Consumer: Employe
-   public class Employe
+   // Consumer: Employee
+   public class Employee
    {
       public string Name { get; set; }
 
-      public Employe(string name)
+      public Employee(string name)
       {
          Name = name;
       }

@@ -6,9 +6,9 @@ namespace MailBoxApp
       {
          MailBox mailBox = new MailBox();
 
-         Employe barack = new Employe("Barack Obama");
-         Employe trudeau = new Employe("Justin Trudeau");
-         Employe alpha = new Employe("Alpha condé");
+         Employee barack = new Employee("Barack Obama");
+         Employee trudeau = new Employee("Justin Trudeau");
+         Employee alpha = new Employee("Alpha condï¿½");
 
          mailBox.Email += barack.receiveEmail;
          mailBox.Email += trudeau.receiveEmail;
